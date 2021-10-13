@@ -42,7 +42,7 @@ status: in ontwikkeling
 
 url: api-demo.algoritmeregister.org
 
-repo:
+repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-api
 
 #### Register website
 

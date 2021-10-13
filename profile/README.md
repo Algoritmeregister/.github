@@ -18,6 +18,8 @@ In opdracht van het consortium wordt Algoritmeregister ontwikkeld: een publiek r
 
 ### Algoritmeregister metadata standaard
 
+![Metadata standaard illustratie](https://github.com/Algoritmeregister/.github/blob/master/profile/metadata-standaard.png?raw=true)
+
 maturity: prototype
 
 status: in ontwikkeling
@@ -27,6 +29,8 @@ url: standaard.algoritmeregister.org
 repo:
 
 ### Algoritmeregister decentrale register software
+
+![Register software illustratie](https://github.com/Algoritmeregister/.github/blob/master/profile/register-software.png?raw=true)
 
 publieke site: www.algoritmeregister.org
 
@@ -61,6 +65,8 @@ url: invoer-demo.algoritmeregister.org
 repo:
 
 ### Algoritmeregister centraal zoeksysteem
+
+![Centraal zoeksysteem illustratie](https://github.com/Algoritmeregister/.github/blob/master/profile/centraal-zoeksysteem.png?raw=true)
 
 maturity: prototype
 

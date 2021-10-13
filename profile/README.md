@@ -19,8 +19,11 @@ In opdracht van het consortium wordt Algoritmeregister ontwikkeld: een publiek r
 ### Algoritmeregister metadata standaard
 
 maturity: prototype
+
 status: in ontwikkeling
+
 url: standaard.algoritmeregister.org
+
 repo:
 
 ### Algoritmeregister decentrale register software
@@ -30,26 +33,37 @@ publieke site: www.algoritmeregister.org
 #### Register web service (API)
 
 maturity: prototype
+
 status: in ontwikkeling
+
 url: api-demo.algoritmeregister.org
+
 repo:
 
 #### Register website
 
 maturity: prototype
+
 status: in ontwikkeling
+
 url: demo.algoritmeregister.org
+
 repo:
 
 #### Register invoertool
 
 maturity: prototype
+
 status: in ontwikkeling
+
 url: invoer-demo.algoritmeregister.org
+
 repo:
 
 ### Algoritmeregister centraal zoeksysteem
 
 maturity: prototype
+
 status: in ontwikkeling
+
 url: www.algoritmeregister.nl

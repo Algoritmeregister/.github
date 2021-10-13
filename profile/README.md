@@ -52,7 +52,7 @@ status: in ontwikkeling
 
 url: demo.algoritmeregister.org
 
-repo:
+repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-app
 
 #### Register invoertool
 
@@ -62,7 +62,7 @@ status: in ontwikkeling
 
 url: invoer-demo.algoritmeregister.org
 
-repo:
+repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-app
 
 ### Algoritmeregister centraal zoeksysteem
 

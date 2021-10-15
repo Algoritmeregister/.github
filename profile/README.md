@@ -26,7 +26,7 @@ status: in ontwikkeling
 
 url: standaard.algoritmeregister.org
 
-repo: https://github.com/Algoritmeregister/standaard
+repo: https://github.com/Algoritmeregister/standard
 
 ### Algoritmeregister decentrale register software
 

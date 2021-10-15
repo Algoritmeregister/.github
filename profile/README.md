@@ -26,7 +26,7 @@ status: in ontwikkeling
 
 url: standaard.algoritmeregister.org
 
-repo: https://github.com/Algoritmeregister/algoritmeregister-metadata-standaard
+repo: https://github.com/Algoritmeregister/standaard
 
 ### Algoritmeregister decentrale register software
 
@@ -42,7 +42,7 @@ status: in ontwikkeling
 
 url: api-demo.algoritmeregister.org
 
-repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-api
+repo: https://github.com/Algoritmeregister/register
 
 #### Register website ("de browser")
 
@@ -52,7 +52,7 @@ status: in ontwikkeling
 
 url: demo.algoritmeregister.org
 
-repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-app
+repo: https://github.com/Algoritmeregister/browser
 
 #### Register invoertool ("de beheer-tool")
 
@@ -62,7 +62,7 @@ status: in ontwikkeling
 
 url: invoer-demo.algoritmeregister.org
 
-repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-app
+repo: https://github.com/Algoritmeregister/beheer-tool
 
 ### Algoritmeregister centraal zoeksysteem ("algoritmeregister.nl")
 

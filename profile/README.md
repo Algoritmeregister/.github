@@ -16,7 +16,7 @@ In opdracht van het consortium wordt Algoritmeregister ontwikkeld: een publiek r
 
 ## Sub-projecten
 
-### Algoritmeregister metadata standaard
+### Algoritmeregister metadata standaard ("de standaard")
 
 <img alt="Metadata standaard illustratie" src="https://github.com/Algoritmeregister/.github/blob/master/profile/metadata-standaard.png?raw=true" width="200">
 
@@ -34,7 +34,7 @@ repo: https://github.com/Algoritmeregister/algoritmeregister-metadata-standaard
 
 publieke site: www.algoritmeregister.org
 
-#### Register web service (API)
+#### Register web service (API) ("het register")
 
 maturity: prototype
 
@@ -44,7 +44,7 @@ url: api-demo.algoritmeregister.org
 
 repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-api
 
-#### Register website
+#### Register website ("de browser")
 
 maturity: prototype
 
@@ -54,7 +54,7 @@ url: demo.algoritmeregister.org
 
 repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-app
 
-#### Register invoertool
+#### Register invoertool ("de beheer-tool")
 
 maturity: prototype
 
@@ -64,7 +64,7 @@ url: invoer-demo.algoritmeregister.org
 
 repo: https://github.com/Algoritmeregister/algoritmeregister-prototype-app
 
-### Algoritmeregister centraal zoeksysteem
+### Algoritmeregister centraal zoeksysteem ("algoritmeregister.nl")
 
 <img alt="Centraal zoeksysteem illustratie" src="https://github.com/Algoritmeregister/.github/blob/master/profile/centraal-zoeksysteem.png?raw=true" width="200">
 

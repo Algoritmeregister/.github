@@ -22,56 +22,46 @@ In opdracht van het consortium wordt Algoritmeregister ontwikkeld: een publiek r
 <img alt="Metadata standaard illustratie" src="https://github.com/Algoritmeregister/.github/blob/master/profile/metadata-standaard.png?raw=true" width="200">
 </a>
 
-maturity: prototype
+fase: actieve ontwikkeling prototype tot en met december
 
-status: in ontwikkeling
-
-url: standaard.algoritmeregister.org
+product website: standaard.algoritmeregister.org (TODO)
 
 repo: https://github.com/Algoritmeregister/standard
 
-### Algoritmeregister decentrale register software
+### Algoritmeregister (decentrale) register software
 
 <img alt="Register software illustratie" src="https://github.com/Algoritmeregister/.github/blob/master/profile/register-software.png?raw=true" width="200">
 
-publieke site: www.algoritmeregister.org
+product website: www.algoritmeregister.org
 
-#### Register web service (API) ("het register")
+centrale browser: www.algoritmeregister.nl
 
-maturity: prototype
+#### Register beheertool ("de manager")
 
-status: in ontwikkeling
+Organisaties willen zicht op de algoritmische toepassingen die worden ingezet in hun processen. De beheertool ondersteunt de inventarisatie en actualisatie van deze registraties.
 
-url: api-demo.algoritmeregister.org
+fase: ontwikkeling prototype tot en met december
 
-repo: https://github.com/Algoritmeregister/register
+repo: https://github.com/Algoritmeregister/manager
+
+demo url: https://brabant.beheer.algoritmeregister.nl
 
 #### Register website ("de browser")
 
-maturity: prototype
+Organisaties willen burgers inzicht geven in de algoritmische toepassingen die worden ingezet in hun processen. De browser stelt burgers in staat om deze informatie te bekijken.
 
-status: in ontwikkeling
-
-url: demo.algoritmeregister.org
+fase: ontwikkeling prototype tot en met december
 
 repo: https://github.com/Algoritmeregister/browser
 
-#### Register invoertool ("de beheer-tool")
+demo url: https://brabant.algoritmeregister.nl
 
-maturity: prototype
+#### Register web service (API) ("het register")
 
-status: in ontwikkeling
+Vanuit de manager worden registraties opgeslagen volgende de standaard in het register. Vanuit de browser worden registraties opgevraagd in het register.
 
-url: invoer-demo.algoritmeregister.org
+maturity: ontwikkeling prototype tot en met december
 
-repo: https://github.com/Algoritmeregister/beheer-tool
+repo: https://github.com/Algoritmeregister/register
 
-### Algoritmeregister centraal zoeksysteem ("algoritmeregister.nl")
-
-<img alt="Centraal zoeksysteem illustratie" src="https://github.com/Algoritmeregister/.github/blob/master/profile/centraal-zoeksysteem.png?raw=true" width="200">
-
-maturity: prototype
-
-status: in ontwikkeling
-
-url: www.algoritmeregister.nl
+demo url: brabant.register.algoritmeregister.nl

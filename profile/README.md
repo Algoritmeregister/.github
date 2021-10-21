@@ -18,7 +18,9 @@ In opdracht van het consortium wordt Algoritmeregister ontwikkeld: een publiek r
 
 ### Algoritmeregister metadata standaard ("de standaard")
 
+<a href="/Algoritmeregister/standard">
 <img alt="Metadata standaard illustratie" src="https://github.com/Algoritmeregister/.github/blob/master/profile/metadata-standaard.png?raw=true" width="200">
+</a>
 
 maturity: prototype
 

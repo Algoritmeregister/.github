@@ -24,7 +24,7 @@ In opdracht van het consortium wordt Algoritmeregister ontwikkeld: een publiek r
 
 fase: actieve ontwikkeling prototype tot en met december
 
-product website: standaard.algoritmeregister.org (TODO)
+product website: https://standaard.algoritmeregister.org (TODO)
 
 repo: https://github.com/Algoritmeregister/standard
 
@@ -64,4 +64,4 @@ maturity: ontwikkeling prototype tot en met december
 
 repo: https://github.com/Algoritmeregister/register
 
-demo url: brabant.register.algoritmeregister.nl
+demo url: https://brabant.register.algoritmeregister.nl
